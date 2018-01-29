@@ -18,6 +18,7 @@ echo 'Building..'
 }
 }
 }
+}
 post {
 	always {
         
